@@ -354,7 +354,6 @@ p, h1, h2, h3 {
 
 .fainas, .pizzas, .empanadas {
     margin-bottom: var(--margin-bottom-spacing-medium);
-    /* padding: var(--columns-padding-mobile); */
 }
 
 
@@ -512,22 +511,6 @@ table {
     display: none;
 }
 
-/* .menu-row {
-    display: block;
-    text-align: center;
-} */
-
-/* .menu-description {
-    display: block;
-} */
-
-/* .menu .prices, .prices-emp {
-    display: flex;
-    justify-content: center;
-    gap: 25px;
-    margin-bottom: var(--margin-bottom-spacing-small);
-} */
-
 .menu h4 {
     color: var(--clr-white-color);
     font-size: var(--font-size-secondary-titles);
@@ -541,11 +524,6 @@ table {
     max-width: 600px;
 }
 
-/* .menu-description {
-    display: block;
-    margin-bottom: var(--margin-bottom-spacing-paragraph-small);
-}
-*/
 
 .menu-price {
     color: var(--clr-white-color);
@@ -1203,10 +1181,6 @@ table {
     }
 
 
-
-    /* .menu {
-        padding: var(--columns-padding);
-    } */
 
     .menu-head {
         display: flex;
